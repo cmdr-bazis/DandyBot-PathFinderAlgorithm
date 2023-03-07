@@ -1,3 +1,9 @@
+# Lee Algorithm
+
+This is my solution of Dandy Bot task that based on wave expansion and route building to dynamic targets.
+All my code is located in user_bot.py
+
+
 # DandyBot
 
 This is a base version of the game. The development continues [here](https://github.com/Frovu/DandyBot).
